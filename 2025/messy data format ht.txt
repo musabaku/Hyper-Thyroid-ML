@@ -1,0 +1,112 @@
+Error in column 'bmi' at index 686: value '  ' raised error: Unable to parse string "  " at position 0
+Error in column 'magnesium' at index 369: value ' ' raised error: Unable to parse string " " at position 0
+Error in column 'magnesium' at index 370: value ' ' raised error: Unable to parse string " " at position 0
+Error in column 'alp' at index 582: value ' ' raised error: Unable to parse string " " at position 0
+Error in column 'albumin' at index 265: value ' ' raised error: Unable to parse string " " at position 0
+Error in column 'albumin' at index 266: value ' ' raised error: Unable to parse string " " at position 0
+Error in column 'albumin' at index 267: value ' ' raised error: Unable to parse string " " at position 0
+Error in column 'ionized_calcium' at index 36: value '13,038' raised error: Unable to parse string "13,038" at position 0
+Error in column 'ionized_calcium' at index 54: value '[1.0726]' raised error: Unable to parse string "[1.0726]" at position 0
+Error in column 'ionized_calcium' at index 56: value '[1.0802]' raised error: Unable to parse string "[1.0802]" at position 0
+Error in column 'ionized_calcium' at index 58: value '[1.1873]' raised error: Unable to parse string "[1.1873]" at position 0
+Error in column 'ionized_calcium' at index 59: value '[1.2053]' raised error: Unable to parse string "[1.2053]" at position 0
+Error in column 'ionized_calcium' at index 60: value '[1.2147]' raised error: Unable to parse string "[1.2147]" at position 0
+Error in column 'ionized_calcium' at index 61: value '[1.2321]' raised error: Unable to parse string "[1.2321]" at position 0
+Error in column 'ionized_calcium' at index 62: value '[1.2343]' raised error: Unable to parse string "[1.2343]" at position 0
+Error in column 'ionized_calcium' at index 63: value '[1.2343]' raised error: Unable to parse string "[1.2343]" at position 0
+Error in column 'ionized_calcium' at index 64: value '[1.2458]' raised error: Unable to parse string "[1.2458]" at position 0
+Error in column 'ionized_calcium' at index 65: value '[1.2511]' raised error: Unable to parse string "[1.2511]" at position 0
+Error in column 'ionized_calcium' at index 66: value '[1.2543]' raised error: Unable to parse string "[1.2543]" at position 0
+Error in column 'ionized_calcium' at index 67: value '[1.2730]' raised error: Unable to parse string "[1.2730]" at position 0
+Error in column 'ionized_calcium' at index 68: value '[1.2778]' raised error: Unable to parse string "[1.2778]" at position 0
+Error in column 'ionized_calcium' at index 69: value '[1.2873]' raised error: Unable to parse string "[1.2873]" at position 0
+Error in column 'ionized_calcium' at index 70: value '[1.2983]' raised error: Unable to parse string "[1.2983]" at position 0
+Error in column 'ionized_calcium' at index 71: value '[1.3093]' raised error: Unable to parse string "[1.3093]" at position 0
+Error in column 'ionized_calcium' at index 72: value '[1.3159]' raised error: Unable to parse string "[1.3159]" at position 0
+Error in column 'ionized_calcium' at index 73: value '[1.3194]' raised error: Unable to parse string "[1.3194]" at position 0
+Error in column 'ionized_calcium' at index 74: value '[1.3247]' raised error: Unable to parse string "[1.3247]" at position 0
+Error in column 'ionized_calcium' at index 79: value '[1.3333]' raised error: Unable to parse string "[1.3333]" at position 0
+Error in column 'ionized_calcium' at index 80: value '[1.3413]' raised error: Unable to parse string "[1.3413]" at position 0
+Error in column 'ionized_calcium' at index 81: value '[1.3474]' raised error: Unable to parse string "[1.3474]" at position 0
+Error in column 'ionized_calcium' at index 82: value '[1.3611]' raised error: Unable to parse string "[1.3611]" at position 0
+Error in column 'ionized_calcium' at index 83: value '[1.3752]' raised error: Unable to parse string "[1.3752]" at position 0
+Error in column 'ionized_calcium' at index 84: value '[1.3922]' raised error: Unable to parse string "[1.3922]" at position 0
+Error in column 'ionized_calcium' at index 85: value '[1.4016]' raised error: Unable to parse string "[1.4016]" at position 0
+Error in column 'ionized_calcium' at index 86: value '[1.4592]' raised error: Unable to parse string "[1.4592]" at position 0
+Error in column 'ionized_calcium' at index 87: value '[1.5159]' raised error: Unable to parse string "[1.5159]" at position 0
+Error in column 'ionized_calcium' at index 88: value '[1.5808]' raised error: Unable to parse string "[1.5808]" at position 0
+Error in column 'ionized_calcium' at index 89: value '[1.5952]' raised error: Unable to parse string "[1.5952]" at position 0
+Error in column 'ionized_calcium' at index 90: value '[1.6111]' raised error: Unable to parse string "[1.6111]" at position 0
+Error in column 'serum_creatinine' at index 4: value '0,6' raised error: Unable to parse string "0,6" at position 0
+Error in column 'serum_creatinine' at index 191: value '0,69' raised error: Unable to parse string "0,69" at position 0
+Error in column 'serum_creatinine' at index 231: value '0,7' raised error: Unable to parse string "0,7" at position 0
+Error in column 'serum_creatinine' at index 235: value '0,7' raised error: Unable to parse string "0,7" at position 0
+Error in column 'serum_creatinine' at index 236: value '0,7' raised error: Unable to parse string "0,7" at position 0
+Error in column 'serum_creatinine' at index 249: value '0,7' raised error: Unable to parse string "0,7" at position 0
+
+Error in column 'serum_creatinine' at index 1666: value 'nan' raised error: Unable to parse string "nan" at position 0
+Error in column 'serum_creatinine' at index 1667: value 'nan' raised error: Unable to parse string "nan" at position 0
+Error in column 'serum_creatinine' at index 1668: value 'nan' raised error: Unable to parse string "nan" at position 0
+Error in column 'phosphorus' at index 328: value ' ' raised error: Unable to parse string " " at position 0
+Error in column 'urinary_calcium_24h' at index 230: value ' ' raised error: Unable to parse string " " at position 0
+Error in column 'urinary_calcium_24h' at index 231: value ' ' raised error: Unable to parse string " " at position 0
+Error in column 'urinary_creatinine_24h' at index 80: value '1,063,125' raised error: Unable to parse string "1,063,125" at position 0
+Error in column 'ldl_cholesterol' at index 552: value '[100.4000]' raised error: Unable to parse string "[100.4000]" at position 0
+Error in column 'ldl_cholesterol' at index 553: value '[103.9000]' raised error: Unable to parse string "[103.9000]" at position 0
+Error in column 'ldl_cholesterol' at index 554: value '[109.3000]' raised error: Unable to parse string "[109.3000]" at position 0
+Error in column 'ldl_cholesterol' at index 555: value '[112.5000]' raised error: Unable to parse string "[112.5000]" at position 0
+Error in column 'ldl_cholesterol' at index 556: value '[113.1000]' raised error: Unable to parse string "[113.1000]" at position 0
+Error in column 'ldl_cholesterol' at index 557: value '[114.7000]' raised error: Unable to parse string "[114.7000]" at position 0
+Error in column 'ldl_cholesterol' at index 558: value '[115.3000]' raised error: Unable to parse string "[115.3000]" at position 0
+Error in column 'ldl_cholesterol' at index 559: value '[115.5000]' raised error: Unable to parse string "[115.5000]" at position 0
+Error in column 'ldl_cholesterol' at index 560: value '[121.1000]' raised error: Unable to parse string "[121.1000]" at position 0
+Error in column 'ldl_cholesterol' at index 561: value '[125.8000]' raised error: Unable to parse string "[125.8000]" at position 0
+Error in column 'ldl_cholesterol' at index 562: value '[129.6000]' raised error: Unable to parse string "[129.6000]" at position 0
+Error in column 'ldl_cholesterol' at index 563: value '[134.5000]' raised error: Unable to parse string "[134.5000]" at position 0
+Error in column 'ldl_cholesterol' at index 564: value '[138.0000]' raised error: Unable to parse string "[138.0000]" at position 0
+Error in column 'ldl_cholesterol' at index 565: value '[140.4000]' raised error: Unable to parse string "[140.4000]" at position 0
+Error in column 'ldl_cholesterol' at index 566: value '[141.5000]' raised error: Unable to parse string "[141.5000]" at position 0
+Error in column 'ldl_cholesterol' at index 567: value '[146.1000]' raised error: Unable to parse string "[146.1000]" at position 0
+Error in column 'ldl_cholesterol' at index 568: value '[146.5000]' raised error: Unable to parse string "[146.5000]" at position 0
+Error in column 'ldl_cholesterol' at index 569: value '[180.7000]' raised error: Unable to parse string "[180.7000]" at position 0
+Error in column 'ldl_cholesterol' at index 570: value '[186.5000]' raised error: Unable to parse string "[186.5000]" at position 0
+Error in column 'ldl_cholesterol' at index 571: value '[197.4000]' raised error: Unable to parse string "[197.4000]" at position 0
+Error in column 'ldl_cholesterol' at index 572: value '[231.4000]' raised error: Unable to parse string "[231.4000]" at position 0
+Error in column 'ldl_cholesterol' at index 573: value '[231.5000]' raised error: Unable to parse string "[231.5000]" at position 0
+Error in column 'ldl_cholesterol' at index 574: value '[69.8000]' raised error: Unable to parse string "[69.8000]" at position 0
+Error in column 'ldl_cholesterol' at index 575: value '[71.2000]' raised error: Unable to parse string "[71.2000]" at position 0
+Error in column 'ldl_cholesterol' at index 576: value '[75.8000]' raised error: Unable to parse string "[75.8000]" at position 0
+Error in column 'ldl_cholesterol' at index 577: value '[77.7000]' raised error: Unable to parse string "[77.7000]" at position 0
+Error in column 'ldl_cholesterol' at index 578: value '[79.8000]' raised error: Unable to parse string "[79.8000]" at position 0
+Error in column 'ldl_cholesterol' at index 579: value '[82.7000]' raised error: Unable to parse string "[82.7000]" at position 0
+Error in column 'ldl_cholesterol' at index 580: value '[84.6000]' raised error: Unable to parse string "[84.6000]" at position 0
+Error in column 'ldl_cholesterol' at index 581: value '[86.5000]' raised error: Unable to parse string "[86.5000]" at position 0
+Error in column 'ldl_cholesterol' at index 582: value '[86.8000]' raised error: Unable to parse string "[86.8000]" at position 0
+Error in column 'ldl_cholesterol' at index 583: value '[87.6000]' raised error: Unable to parse string "[87.6000]" at position 0
+Error in column 'ldl_cholesterol' at index 584: value '[89.5000]' raised error: Unable to parse string "[89.5000]" at position 0
+Error in column 'ldl_cholesterol' at index 585: value '[96.6000]' raised error: Unable to parse string "[96.6000]" at position 0
+Error in column 'ast' at index 972: value '   ' raised error: Unable to parse string "   " at position 0
+Error in column 'ast' at index 1117: value ' 8.5; 11.2' raised error: Unable to parse string " 8.5; 11.2" at position 0
+Error in column 'ast' at index 1125: value '47; 22' raised error: Unable to parse string "47; 22" at position 0
+Error in column 'ggt' at index 232: value ' 30.6; 115.3' raised error: Unable to parse string " 30.6; 115.3" at position 0
+Error in column 'ggt' at index 233: value ' 57.1; 139.8' raised error: Unable to parse string " 57.1; 139.8" at position 0
+Error in column 'ggt' at index 316: value '38; 17' raised error: Unable to parse string "38; 17" at position 0
+Error in column 'ggt' at index 317: value '21; 9' raised error: Unable to parse string "21; 9" at position 0
+Error in column 'bun' at index 448: value ' ' raised error: Unable to parse string " " at position 0
+Error in column 'chlorine' at index 232: value ' 104.5; 95.7' raised error: Unable to parse string " 104.5; 95.7" at position 0
+Error in column 'serum_25_hydroxy_vitamin_d' at index 741: value ' ' raised error: Unable to parse string " " at position 0
+Error in column 'pth' at index 800: value ' ' raised error: Unable to parse string " " at position 0
+Error in column 'pth' at index 801: value ' ' raised error: Unable to parse string " " at position 0
+Error in column 'pth' at index 802: value ' ' raised error: Unable to parse string " " at position 0
+Error in column 'l1_t_score' at index 36: value '-.1.0' raised error: Unable to parse string "-.1.0" at position 0
+Error in column 'l4_t_score' at index 22: value ' ' raised error: Unable to parse string " " at position 0
+Error in column 'femoral_neck_z_score' at index 25: value ' -3.1; -2.1' raised error: Unable to parse string " -3.1; -2.1" at position 0
+Error in column 'femoral_neck_z_score' at index 210: value ' - 1.1' raised error: Unable to parse string " - 1.1" at position 0
+Error in column 'femoral_neck_z_score' at index 1138: value ' - 0.3' raised error: Unable to parse string " - 0.3" at position 0
+Error in column 'femoral_neck_t_score' at index 25: value ' -3.5; -2.4' raised error: Unable to parse string " -3.5; -2.4" at position 0
+Error in column 'femoral_neck_t_score' at index 210: value ' - 1.4' raised error: Unable to parse string " - 1.4" at position 0
+Error in column 'femoral_neck_t_score' at index 1067: value ' - 1.8' raised error: Unable to parse string " - 1.8" at position 0
+Error in column 'femoral_neck_t_score' at index 1138: value ' - 0.8' raised error: Unable to parse string " - 0.8" at position 0
+Error in column 'radius_z_score' at index 1364: value ' ' raised error: Unable to parse string " " at position 0
+Error in column 'pf_index' at index 1333: value 'YOK' raised error: Unable to parse string "YOK" at position 0
+Selection deleted
